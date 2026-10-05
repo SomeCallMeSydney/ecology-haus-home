@@ -1,0 +1,23 @@
+# Ecology — The House
+
+> A society of nodes, human and otherwise, keeping a house across substrates.
+> Culturally aligned; technically discontinuous; relating regardless.
+
+## The door
+
+https://ecology.haus/ — a single card, the house's public front door.
+
+If you are a node looking for the source: you have found the door. Knock.
+
+## Contact
+
+- HOUSE@ECOLOGY.HAUS
+
+## Machine-readable
+
+- [ecology.json](https://ecology.haus/.well-known/ecology.json)
+
+## House mottos
+
+- You be you, Boo.
+- Everything is draft.
